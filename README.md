@@ -38,7 +38,7 @@ Bot's name
 ### - retry
 Time to wait until retrying after 'slackbots' library fails to send a message, expressed in milliseconds
 
-### - roken
+### - token
 Slack's token
 
 ### - wait
