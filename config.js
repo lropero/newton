@@ -36,7 +36,7 @@ module.exports = {
 	retry: 10000,
 
 	// Slack's token
-	token: 'xoxb-53361675618-I805xknA2BQOMofybvXPOimX',
+	token: 'SLACK BOT TOKEN GOES HERE',
 
 	// Time to wait until sending next message, expressed in milliseconds
 	wait: 1000
