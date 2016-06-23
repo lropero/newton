@@ -12,7 +12,9 @@ $ npm install
 $ npm start
 ```
 
-> Note that npm consumes package.json so make sure you are standing at the root of the project folder where this file resides. Also note that this bot depends on another bot which needs to be running called 'wordsbot', written by Rocio Belfiore.
+> Note that npm consumes package.json so make sure you are standing at the root of the project folder where this file resides. Also note that this bot depends on another bot which needs to be running called "wordsbot", written by Rocio Belfiore.
+
+**IMPORTANT**: You'll need to add Slack's token for this bot into config.js before running it!
 
 ## Configuration
 These configurations are modified within config.js file:
