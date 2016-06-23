@@ -1,0 +1,16 @@
+{
+  "name": "newton",
+  "description": "A Slack bot that guesses wordsbot's word",
+  "author": "Luciano Ropero <lropero@gmail.com>",
+  "dependencies": {
+    "axios": "^0.12.0",
+    "cheerio": "^0.20.0",
+    "lodash": "^4.13.1",
+    "slackbots": "^0.5.1"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node newton"
+  }
+}
