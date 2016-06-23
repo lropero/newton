@@ -19,7 +19,7 @@ module.exports = {
 		noFriend: 'My friend is not connected :(',
 		noMethod: 'Method is not configured properly :(',
 		noStart: 'Seems like the word starts with no letter :(',
-		Unable: 'Sorry, I\'m unable to find the word :(',
+		unable: 'Sorry, I\'m unable to find the word :(',
 		zeroLetters: 'The word has zero letters :('
 	},
 
